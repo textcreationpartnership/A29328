@@ -1,0 +1,2047 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the birth, life, sufferings and death of our blessed saviour, Jesus Christ also his resurrection, ascension, intercession at the right hand of his Father in Glory, and of his comming again to judgement, shewing his great love to undone sinners, the dreadful state of the wicked, and blessedness of the righteous / by Henry Brett.</title>
+            <author>Brett, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29328</idno>
+            <idno type="STC">Wing B4399</idno>
+            <idno type="STC">ESTC R4994</idno>
+            <idno type="EEBO-CITATION">11958703</idno>
+            <idno type="OCLC">ocm 11958703</idno>
+            <idno type="VID">51588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51588)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 56:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the birth, life, sufferings and death of our blessed saviour, Jesus Christ also his resurrection, ascension, intercession at the right hand of his Father in Glory, and of his comming again to judgement, shewing his great love to undone sinners, the dreadful state of the wicked, and blessedness of the righteous / by Henry Brett.</title>
+                  <author>Brett, Henry.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.J. for H.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51588:1" rendition="simple:additions"/>
+            <pb facs="tcp:51588:1" rendition="simple:additions"/>
+            <p>THE HISTORY OF THE Birth, Life, Sufferings, and Death OF Our Bleſſed SAVIOUR Jeſus Chriſt.</p>
+            <p>ALSO His Reſurrection, Aſcenſion, Interceſ<g ref="char:EOLhyphen"/>ſion at the Right Hand of His FATHER in Glory, and of his Comming again to JUDGEMENT.</p>
+            <p>SHEWING His Great Love to Undone Sinners, the Dreadful State of the Wicked, and Bleſſedneſs of the Righteous.</p>
+            <p>By <hi>HENRY BRETT.</hi>
+            </p>
+            <p>
+               <hi>Licenſed</hi> 27 May 1679.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. J.</hi> for <hi>H. E.</hi> 1679.</p>
+         </div>
+         <div type="dedicatory_hymn">
+            <pb facs="tcp:51588:2" rendition="simple:additions"/>
+            <pb facs="tcp:51588:2"/>
+            <head>An HYMNE to the Lord <hi>JES<g ref="char:V">Ʋ</g>S CHRIST,</hi> the Saviour of the World, humbly dedicated by the Author.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>GReat Prince of <hi>Peace,</hi> who from thy Fathers Throne</l>
+               <l>Wert pleaſed to deſcend, to ſave thine own,</l>
+               <l>Whom thou before all Ages hadst fore-known.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>And when the fulneſs of that time was come,</l>
+               <l>Did'st not abhor the Bleſſed Virgins Womb;</l>
+               <l>To ſave fall'n Man from his Eternal Doom.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Thou did'ſt accept a mean Eſtate, that we</l>
+               <l>Might be inriched by thy Poverty:</l>
+               <l>And by thy Miſeries might happy be.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>To ſuffer Death, Lord thou didſt condeſcend,</l>
+               <l>Thou took'ſt the pain and ſhame, and to this end</l>
+               <l>Thou conquered'st Death, that it might be our Friend.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Death, which of old of Terrors was the King,</l>
+               <l>Now vanquiſhed by thee hath loſt its Sting;</l>
+               <l>And can no other than glad Tydings bring.</l>
+            </lg>
+            <pb facs="tcp:51588:3"/>
+            <lg n="6">
+               <head>6.</head>
+               <l>Tydings of Joy, our Summons to the Duſt,</l>
+               <l>In a moſt firm Aſſurance that we muſt</l>
+               <l>Riſe when thou comm'ſt to glorifie the Juſt.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>The Trumpet's ſound ſhall then all Mortals raiſe,</l>
+               <l>Who on thy Splendor ſhall with wonder gaze:</l>
+               <l>And with loud Clamors eccho forth thy Praiſe.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Then wilt thou ſit on Clouds enthron'd on high,</l>
+               <l>Shining with Glory, cloth'd with Majeſty.</l>
+               <l>Whil'ſt Earth and Hell in ſcorching Flames ſhall ly.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Hard-hearted ſinners then for mercy ſhall</l>
+               <l>Intreat and beg in vain, and loudly call</l>
+               <l>For lofty Mountains on their Heads to fall.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Whil'ſt on the other hand thy Choſen Sheep</l>
+               <l>An Everlaſting Jubilee ſhall keep.</l>
+               <l>And Endleſs Joys in thy bleſt Kingdom reap.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>There, fixed in a never-changing State,</l>
+               <l>Their pure and heavenly Joys ſhall ne'r abate:</l>
+               <l>And Time ſhall then for ever want a date.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Thither, dear Lord, vouchſafe, us all to bring;</l>
+               <l>That 'mongſt the Quire of Angels we may ſing</l>
+               <l>Eternal Praiſe to thee our God and King.</l>
+            </lg>
+            <p>H. E.</p>
+         </div>
+      </front>
+      <body>
+         <div type="history_poem">
+            <pb n="1" facs="tcp:51588:3"/>
+            <head>The Hiſtory of the Birth, Life, Sufferings, and Death of our Bleſſed Saviour Jeſus Chriſt.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>THe God above abound in love</l>
+               <l>from all Eternity,
+<note place="margin">
+                     <hi>Eph.</hi> 2.4. <hi>Rom.</hi> 8.29.</note>
+               </l>
+               <l>Unto all thoſe whom he hath choſe</l>
+               <l>to ſave from miſery.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>His love was dear,
+<note place="margin">
+                     <hi>Eph.</hi> 14.</note> it doth appear</l>
+               <l>he choſe them in his Son;</l>
+               <l>That they might be by him made free</l>
+               <l>who were by ſin undone.
+<note place="margin">
+                     <hi>John</hi> 8.38.</note>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>True Lord, we were all made by thee,
+<note place="margin">
+                     <hi>Gen.</hi> 1.26, 27. <hi>Eccl.</hi> 7.29.</note>
+               </l>
+               <l>and form'd thy Image in:</l>
+               <l>We did poſſeſs true Holineſs,</l>
+               <l>perfect without all ſin.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>But thou didſt ſee, what we would be</l>
+               <l>from all Eternity;</l>
+               <l>That we would turn,
+<note place="margin">
+                     <hi>Eccl.</hi> 7.29. <hi>Hoſe.</hi> 13.9.</note> and from thee run</l>
+               <l>into all miſery.</l>
+            </lg>
+            <pb n="2" facs="tcp:51588:4"/>
+            <lg n="5">
+               <head>V.</head>
+               <l>Thou didſt therefore,
+<note place="margin">
+                     <hi>Pr.</hi> 8.22, 23. 1 <hi>Pet.</hi> 1.20. <hi>Rev.</hi> 13.8. <hi>Eph.</hi> 2.23.</note> long time before</l>
+               <l>that we our being had,</l>
+               <l>Set thy Son apart, that he might ſmart</l>
+               <l>for us who were moſt bad.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>This love was in thy heart, even when</l>
+               <l>from all Eternity</l>
+               <l>Thou didſt deſign ſome to be thine,
+<note place="margin">
+                     <hi>Rev.</hi> 17.8. <hi>Acts</hi> 13.48.</note>
+               </l>
+               <l>To ſave eternally.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Thou gaveſt them,
+<note place="margin">
+                     <hi>Joh.</hi> 17.69. <hi>Eph.</hi> 1.4 <hi>Joh.</hi> 17.12. <hi>Joh.</hi> 6.39.</note> even unto him,</l>
+               <l>in whom thou didſt them chuſe;</l>
+               <l>That he might have, them for to ſave,</l>
+               <l>and none of them might loſe.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>When Offerings,
+<note place="margin">
+                     <hi>Heb.</hi> 10.1, 4.</note> and all ſuch things,</l>
+               <l>could never take away</l>
+               <l>The ſins of thoſe, whom thou had'ſt choſe;</l>
+               <l>when from thee gone aſtray.
+<note place="margin">1 <hi>Pet.</hi> 2.25.</note>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Thou did'ſt prepare, for Chriſt moſt dear,</l>
+               <l>a Body to come in;
+<note place="margin">
+                     <hi>Heb.</hi> 10.5. <hi>Rom.</hi> 8.</note>
+               </l>
+               <l>That he might be, like unto we,</l>
+               <l>who were all under ſin.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Though he was not,
+<note place="margin">
+                     <hi>Heb.</hi> 7.26. 1 <hi>Cor.</hi> 5.21.</note> no not one jot,</l>
+               <l>defil'd with ſin within;</l>
+               <pb n="3" facs="tcp:51588:4"/>
+               <l>But did appear, our guilt to bear,
+<note place="margin">
+                     <hi>Iſa.</hi> 53.5, 6.</note>
+               </l>
+               <l>who were all full of ſin.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>O wonderment, to 'ſtoniſhment,</l>
+               <l>what myſtery is this?</l>
+               <l>Our Lord and Saviour, who was the Father,
+<note place="margin">
+                     <hi>Rom.</hi> 9.5.</note>
+               </l>
+               <l>even of eternal bliſs.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>That he ſhould be, yea, even that he,
+<note place="margin">
+                     <hi>Col.</hi> 1.15, 16. <hi>Gal.</hi> 4.4.</note>
+               </l>
+               <l>who was the Womans Maker;</l>
+               <l>That he ſhould e'r be made of her,</l>
+               <l>and yet was her Creator.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>He that abode, the mighty God,
+<note place="margin">
+                     <hi>Iſa.</hi> 9.6.</note>
+               </l>
+               <l>became a little Child;</l>
+               <l>Yea, he was born, and was the ſcorn,
+<note place="margin">
+                     <hi>Heb.</hi> 1.3.13.8.</note>
+               </l>
+               <l>of thoſe who were defil'd.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>His Birth was low, therefore we know,</l>
+               <l>but few did him eſteem;
+<note place="margin">
+                     <hi>Luke</hi> 2.7. <hi>Mat.</hi> 2.11.</note>
+               </l>
+               <l>But yet there were, that did appear,</l>
+               <l>and worſhip did to him.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>This Child did grow,
+<note place="margin">
+                     <hi>Luke</hi> 2.40. <hi>John</hi> 7.5. <hi>Mat.</hi> 6.3. <hi>John</hi> 8.59.</note> but few did know</l>
+               <l>He was the Son of God;</l>
+               <l>He under-went great puniſhment,</l>
+               <l>even by the wicked's rod.</l>
+            </lg>
+            <pb n="4" facs="tcp:51588:5"/>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>He was anointed,
+<note place="margin">
+                     <hi>Prov.</hi> 8.23. <hi>Iſa.</hi> 61.1. <hi>Heb.</hi> 3.2. 1 <hi>Tim.</hi> 2.5.</note> and appointed,</l>
+               <l>of God his heavenly Father;</l>
+               <l>That he might be, 'teen God and we,</l>
+               <l>Eternal Mediator.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Thus he abode,
+<note place="margin">
+                     <hi>Heb.</hi> 13.8. <hi>Acts</hi> 10.38. <hi>Luke</hi> 19.10. <hi>Luke</hi> 24.32.</note> and unto God</l>
+               <l>his Office did perform;</l>
+               <l>He went about, ſought ſinners out,</l>
+               <l>That he their hearts might warm.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>And his kindneſs, and tenderneſs</l>
+               <l>unto poor men was great;</l>
+               <l>He diſpoſſeſt the poor diſtreſt,
+<note place="margin">
+                     <hi>Mat.</hi> 8.16.</note>
+               </l>
+               <l>and Devils did defeat.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>When he ſuch found,
+<note place="margin">
+                     <hi>Luke</hi> 13.16. <hi>Mark</hi> 1.25, 26. <hi>Mat.</hi> 9.33.</note> as were thus bound,</l>
+               <l>and fettered with Chains;</l>
+               <l>The Chains did break, the Dumb did ſpeak,</l>
+               <l>he freed Men from all Pains.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>He was ſo kind unto the blind,</l>
+               <l>he did reſtore their ſight;
+<note place="margin">
+                     <hi>John</hi> 9.6, 7.</note>
+               </l>
+               <l>The Lame that lay along his way,</l>
+               <l>he put them in good plight.
+<note place="margin">
+                     <hi>Mat.</hi> 11.5.</note>
+               </l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>The Blind, the Sick, and Lunatick,</l>
+               <l>he healed each of them</l>
+               <pb n="5" facs="tcp:51588:5"/>
+               <l>Of all Diſeaſe, he gave all eaſe,
+<note place="margin">
+                     <hi>Mark</hi> 7.35, 37. <hi>John</hi> 11.44.</note>
+               </l>
+               <l>whoever came to him.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>The Deaf did hear, as did appear,</l>
+               <l>for he their hearing gave;</l>
+               <l>Some that were dead, he quickened,</l>
+               <l>and raiſed out o'th grave.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>All this and more, for to the poor,</l>
+               <l>he did the Goſpel preach;
+<note place="margin">
+                     <hi>Mat.</hi> 11.5. <hi>Mat.</hi> 4.23.</note>
+               </l>
+               <l>About he went, as he was ſent,</l>
+               <l>the way to Heaven to teach.</l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>And then his Name and mighty Fame</l>
+               <l>began to ſpread abroad,
+<note place="margin">
+                     <hi>Mat.</hi> 4.24. <hi>Mat.</hi> 9.31, 33. <hi>Joh.</hi> 6.15.7.46.</note>
+               </l>
+               <l>And many men were taken then</l>
+               <l>with this our deareſt Lord.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Many there were, that thought it clear,</l>
+               <l>he was the Son of God;
+<note place="margin">
+                     <hi>John</hi> 12.42, 43.</note>
+               </l>
+               <l>But dur'ſt not this of him confeſs,</l>
+               <l>they fear'd the wickeds rod.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>But ſome the while did him revile,</l>
+               <l>and ſpake moſt dreadful evil;</l>
+               <l>And thought it well, thus to rebel,</l>
+               <l>and ſay he had a Devil.</l>
+            </lg>
+            <pb n="6" facs="tcp:51588:6"/>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>What ſad abuſe, from the profuſe,</l>
+               <l>did this Lord meet withal;</l>
+               <l>How few were there,
+<note place="margin">
+                     <hi>John</hi> 6.66, 68.</note> that did appear</l>
+               <l>to ſpeak one word at all.</l>
+            </lg>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>On his behalf; no not one half,</l>
+               <l>of all that did him hear:</l>
+               <l>That were ſo ſtout to ſtand it out,</l>
+               <l>his innocence to clear.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>But he did not, retort one jot,</l>
+               <l>nor Men revile again;
+<note place="margin">1 <hi>Pet.</hi> 2.22, 23, 24.</note>
+               </l>
+               <l>But patiently, he paſt it by,</l>
+               <l>went on his work amain.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>'Twas his delight,
+<note place="margin">
+                     <hi>Pſalm.</hi> 40.8. <hi>Luke</hi> 6.12, 13. <hi>John</hi> 4.34.</note> both day and night,</l>
+               <l>to do his Fathers will;</l>
+               <l>And what was this, but Men to bliſs,</l>
+               <l>and ſave them out of Hell.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>This Son of God, did do much good,</l>
+               <l>but was rewarded evil,
+<note place="margin">
+                     <hi>John</hi> 10.12.8.44.</note>
+               </l>
+               <l>Men him abus'd, falſly accus'd,</l>
+               <l>and acted like the Devil.</l>
+            </lg>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>But none of thoſe,
+<note place="margin">
+                     <hi>John</hi> 7.45, 46.</note> that were his foes,</l>
+               <l>could over him have power;</l>
+               <pb n="7" facs="tcp:51588:6"/>
+               <l>By mens commands, to lay their hands,
+<note place="margin">
+                     <hi>Mat.</hi> 26.55.</note>
+               </l>
+               <l>till his accompliſh'd hour.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>Then one of twelve, he prov'd a Wolve,
+<note place="margin">
+                     <hi>Mat.</hi> 8.14, 15. <hi>Act.</hi> 1.25.</note>
+               </l>
+               <l>did not his place abide;</l>
+               <l>He went and told, and <hi>Jeſus</hi> ſold,</l>
+               <l>and to his foes was guid.</l>
+            </lg>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>Yea, one of them, that were with him,</l>
+               <l>went and did him betray;
+<note place="margin">
+                     <hi>Mat.</hi> 26.48.</note>
+               </l>
+               <l>He did them ſhew, and told them how,</l>
+               <l>on him their hands to lay.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Then came the hour, yea, and the power.</l>
+               <l>the pangs of Death and Hell;
+<note place="margin">
+                     <hi>Luke</hi> 2.55. <hi>Mat.</hi> 26.37.</note>
+               </l>
+               <l>Oh! who does know, ſo as to ſhow,</l>
+               <l>who can his ſorrows tell?</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>The ſins of thoſe, whom God had choſe,
+<note place="margin">
+                     <hi>Iſa.</hi> 53.6. 2 <hi>Cor.</hi> 5.21.</note>
+               </l>
+               <l>who were choſen in him;</l>
+               <l>Were laid upon this only Son,</l>
+               <l>He bore the ſins of them.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>And it was they, that made him pray,</l>
+               <l>they were of ſuch a weight;
+<note place="margin">
+                     <hi>Mat.</hi> 26.39. <hi>Heb.</hi> 5.7.</note>
+               </l>
+               <l>They made him cry, and ſend on high,</l>
+               <l>he was in ſuch a ſtrait.</l>
+            </lg>
+            <pb n="8" facs="tcp:51588:7"/>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>What drops of blood, this Son of God,</l>
+               <l>did ſweat upon the ground;
+<note place="margin">
+                     <hi>Luk.</hi> 22.44. <hi>John</hi> 8.34, 36.</note>
+               </l>
+               <l>And all that he, might ſet ſuch free,</l>
+               <l>who were by ſin faſt bound.</l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>Then came again, <hi>Judas</hi> amain,</l>
+               <l>with all his curſed crew,
+<note place="margin">
+                     <hi>Mat.</hi> 26.47.</note>
+               </l>
+               <l>Who went moſt ſtrong, and he among,</l>
+               <l>that he his Lord might ſhew.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>The way was fine, he gave a ſign:</l>
+               <l>what was the ſign but this,</l>
+               <l>He hail did ſay,
+<note place="margin">
+                     <hi>Mat.</hi> 26.48.</note> and did betray</l>
+               <l>him, with a wicked kiſs.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>This Companies authority,</l>
+               <l>they had from Hypocrits;
+<note place="margin">
+                     <hi>Mat.</hi> 26.47. <hi>John</hi> 18.3.</note>
+               </l>
+               <l>Thought they were ſtrong, <hi>Judas</hi> among,</l>
+               <l>and on they came with lights.</l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>But 'laſs, poor men, if Chriſt had then</l>
+               <l>unto his Father pray'd,</l>
+               <l>How ſoon he might,
+<note place="margin">
+                     <hi>Mat.</hi> 26.53.</note> even that ſame night,</l>
+               <l>Angels have had for aid.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>But this was done, on God the Son,</l>
+               <l>the Scriptures to fulfil;
+<note place="margin">
+                     <hi>Mat.</hi> 26.56.</note>
+               </l>
+               <pb n="9" facs="tcp:51588:7"/>
+               <l>That none of thoſe, that God had choſe,
+<note place="margin">
+                     <hi>Mat.</hi> 26.56.</note>
+               </l>
+               <l>might ſuffer Death or Hell.</l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>Behold how all, whom Chriſt did call,</l>
+               <l>Diſciples for to be,</l>
+               <l>Away did make, and him forſake,
+<note place="margin">
+                     <hi>Mat.</hi> 26.56.</note>
+               </l>
+               <l>when they began to ſee.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>Their Lord was took; they him forſook</l>
+               <l>when their Shepherd was ſmitten</l>
+               <l>The Sheep did flee away from hee,
+<note place="margin">
+                     <hi>Zach.</hi> 13.7.</note>
+               </l>
+               <l>for fear they ſhould be bitten.</l>
+            </lg>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>When theſe were fled, away they led</l>
+               <l>the Lord unto the Priſon;
+<note place="margin">
+                     <hi>Mat.</hi> 26.56, 57. <hi>Iſa.</hi> 53.8.</note>
+               </l>
+               <l>And many th'are, that did appear,</l>
+               <l>againſt him now w'are riſen.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>O what a rout, was there about</l>
+               <l>this dear and precious Lord;
+<note place="margin">
+                     <hi>Luke</hi> 23.1, 2, 11, 65.</note>
+               </l>
+               <l>They did abuſe, and him accuſe</l>
+               <l>of things which he abhorr'd.</l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>This wicked rout, they were ſo ſtout,</l>
+               <l>more liker beaſts than men.</l>
+               <l>Theſe barking dogs,
+<note place="margin">
+                     <hi>Pſal.</hi> 22.12, 16.</note> did caſt their bogs</l>
+               <l>even at the Lord of Heaven.</l>
+            </lg>
+            <pb n="10" facs="tcp:51588:8"/>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>The Bulls did gore,
+<note place="margin">
+                     <hi>Pſal.</hi> 22.12, 13. <hi>Mat.</hi> 26.67.</note> and Lions roar,</l>
+               <l>as is ſaid in the Pſalm;</l>
+               <l>Yea theſe were thoſe moſt dreadful foes,</l>
+               <l>that ſmote him with the Palm.</l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>Theſe men were they, as Scripture ſay,</l>
+               <l>that did ſpit on his face;</l>
+               <l>That did him ſtrip, and alſo whip;</l>
+               <l>theſe men were they ſo baſe.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Obſerve this thing;
+<note place="margin">
+                     <hi>Luk.</hi> 23.1, 7.</note> they led this King</l>
+               <l>before poor earthly men,</l>
+               <l>Who, 'fore had been, even until then,</l>
+               <l>at enmity; but when</l>
+            </lg>
+            <lg n="52">
+               <head>LII.</head>
+               <l>This they did ſee, they did agree</l>
+               <l>againſt this bleſſed Lord:</l>
+               <l>That ſo they might thus vend their ſpight,
+<note place="margin">
+                     <hi>Luk.</hi> 23.8.</note>
+               </l>
+               <l>and to the Jews afford</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>What help they could; ſo much as would</l>
+               <l>diſpatch him out o'th way.</l>
+               <l>The Jews pretend they had good end,</l>
+               <l>and therefore they did ſay,</l>
+            </lg>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>We have a Law, and by this Law,</l>
+               <l>this Man he ought to die,
+<note place="margin">
+                     <hi>Joh.</hi> 19.7.</note>
+               </l>
+               <pb n="11" facs="tcp:51588:8"/>
+               <l>But they were falſe, Witneſſes falſe;
+<note place="margin">
+                     <hi>Mat.</hi> 26.60.</note>
+               </l>
+               <l>and did moſt falſly lie:</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>For <hi>Pilate</hi> then, the worſt of men,</l>
+               <l>did then moſt clearly ſee,</l>
+               <l>They vehemently, out of envy,
+<note place="margin">
+                     <hi>Mat.</hi> 27.18.</note>
+               </l>
+               <l>did this, that <hi>Chriſt</hi> might die.</l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>Therefore he would, if Water could,</l>
+               <l>his guilt have waſh'd away.</l>
+               <l>But Blood was ſpilt,
+<note place="margin">
+                     <hi>Mat.</hi> 24.24.</note> therefore the guilt</l>
+               <l>it ſtill on him did ſtay.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>His ſin and ſtain, do ſtill remain;</l>
+               <l>they ſtand upon Record:</l>
+               <l>'Tis charg'd on him,
+<note place="margin">
+                     <hi>Mar.</hi> 15.15.</note> amongſt all them</l>
+               <l>that crucifi'd their Lord.</l>
+            </lg>
+            <lg n="58">
+               <head>LVIII.</head>
+               <l>But now let us, conſider thus,</l>
+               <l>What did become of him,</l>
+               <l>Who had <hi>Chriſt</hi> ſold, the Money told,</l>
+               <l>he that was Guid to them</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>Who did all this ſad wickedneſs?</l>
+               <l>this Wretch did now repent,</l>
+               <l>And brought again the price with pain,
+<note place="margin">
+                     <hi>Mat.</hi> 27.3.</note>
+               </l>
+               <l>but was not penitent.</l>
+            </lg>
+            <pb n="12" facs="tcp:51588:9"/>
+            <lg n="60">
+               <head>LX.</head>
+               <l>He then into deſpair did go,</l>
+               <l>where he began to ſink;</l>
+               <l>And then how he ſhould freed be,</l>
+               <l>too late began to think.</l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>From his ſad pain, which came amain,</l>
+               <l>he then his Life diſpatch'd;
+<note place="margin">
+                     <hi>Mat.</hi> 27.5. <hi>Act.</hi> 1.18.</note>
+               </l>
+               <l>But head-long fell, he into Hell,</l>
+               <l>his Soul the Devil catch'd.</l>
+            </lg>
+            <lg n="62">
+               <head>LXII.</head>
+               <l>Let Hypocrites, falſe hearted Wights,</l>
+               <l>ſeriouſly on this think,</l>
+               <l>And warning take, by this that make</l>
+               <l>
+                  <hi>Judas</hi> his Name to ſtink.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>Now turn to thoſe, his other foes,</l>
+               <l>who did him ſet at nought;</l>
+               <l>And take a view as Scriptures ſhew,
+<note place="margin">
+                     <hi>Luk.</hi> 23.11.</note>
+               </l>
+               <l>of them who had Chriſt bought.</l>
+            </lg>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>The Soldiers then, thoſe wretched men,</l>
+               <l>this precious Lord did take</l>
+               <l>Into the Hall,
+<note place="margin">
+                     <hi>Mat.</hi> 27.27, 28, 29.</note> common for all,</l>
+               <l>at him their ſport to make.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>They ſtripped him, and put on him</l>
+               <l>a Scarlet Robe, and when</l>
+               <pb n="13" facs="tcp:51588:9"/>
+               <l>They'd made a Crown ('twas made of thorn.)</l>
+               <l>and on him they put it then.</l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>And mockingly and ſcoffingly,</l>
+               <l>they then did bow the knee;</l>
+               <l>O wicked thing, they mock'd this King,</l>
+               <l>Who yet their Judge muſt be.</l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>Yea, him they ſmote, but he did not</l>
+               <l>at all reſiſt again,</l>
+               <l>But patiently he paſt it by,
+<note place="margin">
+                     <hi>Iſa.</hi> 53.7.</note>
+               </l>
+               <l>And under-went his pain.</l>
+            </lg>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>And then they led him to be bled,</l>
+               <l>unto a place moſt vile;</l>
+               <l>A place of Scull,
+<note place="margin">
+                     <hi>Mat.</hi> 27.33.</note> ſome think 'twas full</l>
+               <l>of dead mens bones the while.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>They ſtripped him, and hanged him,</l>
+               <l>there up upon the Croſs;</l>
+               <l>They parted then his Garments,
+<note place="margin">
+                     <hi>Mat.</hi> 27.35.</note> when</l>
+               <l>this Lord did ſuffer loſs.</l>
+            </lg>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehold what ſhame, yea, and what blame</l>
+               <l>they then did caſt on him;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>was numbred then, with wicked men,
+<note place="margin">
+                     <hi>Mat.</hi> 27.38.</note>
+               </l>
+               <l>they numbred him with them.</l>
+            </lg>
+            <pb n="14" facs="tcp:51588:10"/>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>They pierc'd his Hands at mens commands,</l>
+               <l>yea, and his Feet did they</l>
+               <l>Nail to the Tree,
+<note place="margin">
+                     <hi>Pſal.</hi> 22.16.</note> ſome it did ſee,</l>
+               <l>that ſo they might him ſlay.</l>
+            </lg>
+            <lg n="72">
+               <head>LXXII.</head>
+               <l>Theſe men they mockt, and alſo ſcoft</l>
+               <l>at him, they did deride;</l>
+               <l>Some were ſo mad,
+<note place="margin">
+                     <hi>Mat.</hi> 27.39. <hi>John</hi> 19.34.</note> their Heads they wag'd,</l>
+               <l>one pierc'd his precious ſide.</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>This being done, let's now look on,</l>
+               <l>into the inward ſide;</l>
+               <l>For to eſpy the Myſtery</l>
+               <l>let us not here abide.</l>
+            </lg>
+            <lg n="74">
+               <head>LXXIV.</head>
+               <l>Let us not lay too much on they</l>
+               <l>who crucified him thus;</l>
+               <l>But let's enlarge this dreadful charge,</l>
+               <l>and bring it home to us.</l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>Our ſins were they, our ſins we ſay,</l>
+               <l>that on this Lord did lie;</l>
+               <l>Yea, they were they, that did him ſlay,</l>
+               <l>that did him crucifie.</l>
+            </lg>
+            <lg n="76">
+               <head>LXXVI.</head>
+               <l>Our ſins we ſay; yea they were they,</l>
+               <l>which were the Crown of Thorns;
+<note place="margin">
+                     <hi>Iſa.</hi> 53.5, 6.</note>
+               </l>
+               <pb n="15" facs="tcp:51588:10"/>
+               <l>Th' were they,
+<note place="margin">
+                     <hi>Iſa.</hi> 53.5, 6.</note> that bruis'd and him a<g ref="char:EOLhyphen"/>bus'd,</l>
+               <l>and caus'd moſt dreadful groans.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>They pierc'd his Side, the Wound was wide,</l>
+               <l>ſo as the Blood did run,</l>
+               <l>For us his foes; for we were thoſe,</l>
+               <l>who were by ſin undone.</l>
+            </lg>
+            <lg n="78">
+               <head>LXXVIII.</head>
+               <l>Sinners 'gainſt thee, O Lord were we,</l>
+               <l>moſt filthy in thy ſight,</l>
+               <l>And muſt have lain, even under pain,</l>
+               <l>in dreadful helliſh plight.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>For Lord 'tis clear, by ſin we were,</l>
+               <l>in wretched helpleſs caſe;
+<note place="margin">
+                     <hi>Pſal.</hi> 89.19. 2 <hi>Cor.</hi> 5.21.</note>
+               </l>
+               <l>We had no aid, but help was laid,</l>
+               <l>on Chriſt to give us eaſe.</l>
+            </lg>
+            <lg n="80">
+               <head>LXXX.</head>
+               <l>We muſt have ſank, had not he drank,</l>
+               <l>that ſowr bitter Cup;</l>
+               <l>That bitter Gall, we that did fall,
+<note place="margin">
+                     <hi>Mat.</hi> 26.42.</note>
+               </l>
+               <l>ſhould have no more got up.</l>
+            </lg>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>But thou, Oh Lord, didſt Grace afford;</l>
+               <l>thou didſt thy favour lend,</l>
+               <l>To take away our gulilt that lay,</l>
+               <l>thus did'ſt thou condeſcend.</l>
+            </lg>
+            <pb n="16" facs="tcp:51588:11"/>
+            <lg n="82">
+               <head>LXXXII.</head>
+               <l>To lay't upon thy only Son,
+<note place="margin">2 <hi>Cor.</hi> 5.21.</note>
+               </l>
+               <l>thy only Son moſt dear,</l>
+               <l>That we might be from ſin made free,</l>
+               <l>and he our guilt might bear.</l>
+            </lg>
+            <lg n="83">
+               <head>LXXXIII.</head>
+               <l>That he might die to ſatisfie,</l>
+               <l>the juſtice of our God,</l>
+               <l>That ſo poor we, might freed be,</l>
+               <l>from ſins eternal rod.</l>
+            </lg>
+            <lg n="84">
+               <head>LXXXIV.</head>
+               <l>We were unlike, and had diſlike,</l>
+               <l>Lord of thy Majeſty;</l>
+               <l>Within our hearts and inward parts,
+<note place="margin">
+                     <hi>Rom.</hi> 8.7.</note>
+               </l>
+               <l>was dreadful enmity.</l>
+            </lg>
+            <lg n="85">
+               <head>LXXXV.</head>
+               <l>So that we would not, no, nor could</l>
+               <l>have turned unto thee;</l>
+               <l>But Chriſt did lay, his Life to ſtay</l>
+               <l>this enmity that we,</l>
+            </lg>
+            <lg n="86">
+               <head>LXXXVI.</head>
+               <l>Who were unjuſt; but Chriſt moſt juſt</l>
+               <l>did feel the ſmarting rod,</l>
+               <l>Which made him cry,
+<note place="margin">1 <hi>Pet.</hi> 3.18.</note> yea, and did die</l>
+               <l>to bring us unto God.</l>
+            </lg>
+            <lg n="87">
+               <head>LXXXVII.</head>
+               <l>O bleſſed ſight, which ſhine moſt bright,</l>
+               <l>To ſee a broken Saviour;</l>
+               <pb n="17" facs="tcp:51588:11"/>
+               <l>Who paid his blood, even unto God,</l>
+               <l>to bring us into favour.</l>
+            </lg>
+            <lg n="88">
+               <head>LXXXVIII.</head>
+               <l>We that by ſin, which dwells within,</l>
+               <l>moſt dreadfully did ſtink;</l>
+               <l>And muſt have lain, in Hell with pain,
+<note place="margin">
+                     <hi>Pſal.</hi> 38.3.</note>
+               </l>
+               <l>we were upon its brink.</l>
+            </lg>
+            <lg n="89">
+               <head>LXXXIX.</head>
+               <l>But Chriſt that Box, that Spikenard Box,</l>
+               <l>did break, and its perfume</l>
+               <l>Did ſend on high, above the Sky,
+<note place="margin">
+                     <hi>Mar.</hi> 14.3.</note>
+               </l>
+               <l>our ſtink for to conſume.</l>
+            </lg>
+            <lg n="90">
+               <head>XC.</head>
+               <l>This Odour then, it filled Heaven</l>
+               <l>with ſuch a fragant ſmell,</l>
+               <l>As never did aſcend to God,
+<note place="margin">
+                     <hi>Eph.</hi> 5.2.</note>
+               </l>
+               <l>that pleaſed him ſo well.</l>
+            </lg>
+            <lg n="91">
+               <head>XCI.</head>
+               <l>And Earth below, ſome it doth know,</l>
+               <l>it was perfum'd ſo well,</l>
+               <l>That ſcent did draw from Satans Law,</l>
+               <l>'twas ſuch attractive ſmell.</l>
+            </lg>
+            <lg n="92">
+               <head>XCII.</head>
+               <l>And they that know, will tell us now,</l>
+               <l>it is the beſt perfume</l>
+               <l>That ever we did ſmell or ſee,</l>
+               <l>its vertue ne'r conſume.</l>
+            </lg>
+            <pb n="18" facs="tcp:51588:12"/>
+            <lg n="93">
+               <head>XCIII.</head>
+               <l>No, though 'tis long, ſince that among</l>
+               <l>poor men this Box did break;</l>
+               <l>It's ſweet remains, and many gain,</l>
+               <l>yea, ſtill it Saints doth make.</l>
+            </lg>
+            <lg n="94">
+               <head>XCIV.</head>
+               <l>And ſome of all, both great and ſmall,</l>
+               <l>of ſinners that were chief;</l>
+               <l>It hath perfum'd,
+<note place="margin">1 <hi>Tim.</hi> 1.15. <hi>Luk.</hi> 23.43.</note> their luſts conſum'd;</l>
+               <l>of which one was the chief.</l>
+            </lg>
+            <lg n="95">
+               <head>XCV.</head>
+               <l>And all that dwell on earth, and ſmell</l>
+               <l>the ſweetneſs of this ſavour,</l>
+               <l>It makes alive, their ſouls, and thrive;</l>
+               <l>it brings them into favour.</l>
+            </lg>
+            <lg n="96">
+               <head>XCVI.</head>
+               <l>O taſte and ſee, Chriſt on the tree,</l>
+               <l>oh ſoul, and do not ſtarve;</l>
+               <l>Though all be ſpent, Chriſt he was ſent,</l>
+               <l>and he his fleſh did carve.</l>
+            </lg>
+            <lg n="97">
+               <head>XCVII.</head>
+               <l>Which to the dead is meat indeed,
+<note place="margin">
+                     <hi>John</hi> 6.50. <hi>to</hi> 59.</note>
+               </l>
+               <l>his blood is alſo drink,</l>
+               <l>To thoſe that eat his fleſh for meat,</l>
+               <l>and of his blood do drink.</l>
+            </lg>
+            <lg n="98">
+               <head>XCVIII.</head>
+               <l>This bread is good, 'tis that of God</l>
+               <l>which down from heaven did come:</l>
+               <pb n="19" facs="tcp:51588:12"/>
+               <l>And all that eat the ſame for meat;</l>
+               <l>in heaven ſhall have a room.</l>
+            </lg>
+            <lg n="99">
+               <head>XCIX.</head>
+               <l>And ſhall not die eternally,</l>
+               <l>but live with Chriſt for aye;</l>
+               <l>Dwelling in him, and he in them,</l>
+               <l>and never die away.</l>
+            </lg>
+            <lg n="100">
+               <head>C.</head>
+               <l>Oh take a view, as Scripture ſhew</l>
+               <l>of Jeſus on the Croſs,</l>
+               <l>How he did bleed; we might be freed</l>
+               <l>from everlaſting loſs.</l>
+            </lg>
+            <lg n="101">
+               <head>CI.</head>
+               <l>The Caſe was this, the Lord of Bliſs</l>
+               <l>for ſinners was oppreſt!</l>
+               <l>Which made him cry amazingly,
+<note place="margin">
+                     <hi>Mat.</hi> 27.50.</note>
+               </l>
+               <l>and yielded up the Ghoſt.</l>
+            </lg>
+            <lg n="102">
+               <head>CII.</head>
+               <l>O Myſtery, that Chriſt ſhould die,</l>
+               <l>he was the Lord of life,</l>
+               <l>But ſubject was, through death did paſs,</l>
+               <l>for his dear Spouſe, his Wife.</l>
+            </lg>
+            <lg n="103">
+               <head>CIII.</head>
+               <l>What's all this done, O hearts of Stone,</l>
+               <l>that we cannot relent,</l>
+               <l>Oh ſenſeleſs blocks, look to the rocks,</l>
+               <l>which at this thing were rent.
+<note place="margin">
+                     <hi>Mat.</hi> 27.51.</note>
+               </l>
+            </lg>
+            <pb n="20" facs="tcp:51588:13"/>
+            <lg n="104">
+               <head>CIV.</head>
+               <l>Chriſt's blood did guſh, the heavens did bluſh.</l>
+               <l>yea and the earth did quake;</l>
+               <l>The Sun with-drew his light from view,
+<note place="margin">
+                     <hi>Mar.</hi> 15.33.</note>
+               </l>
+               <l>what work this thing did make.</l>
+            </lg>
+            <lg n="105">
+               <head>CV.</head>
+               <l>'Twas not for they; but us, we ſay</l>
+               <l>that this our Lord did die:</l>
+               <l>Oh let's relent now,
+<note place="margin">
+                     <hi>Heb.</hi> 5.7.</note> and repent,</l>
+               <l>of that which made him cry.</l>
+            </lg>
+            <lg n="106">
+               <head>CVI.</head>
+               <l>All this was done, on God the Son,</l>
+               <l>the Scriptures to fulfil;</l>
+               <l>But nothing more,
+<note place="margin">
+                     <hi>John</hi> 19.36.</note> than what before</l>
+               <l>was written as God's will.</l>
+            </lg>
+            <lg n="107">
+               <head>CVII.</head>
+               <l>And two great men, appeared then,</l>
+               <l>their loves to Chriſt to ſhew;</l>
+               <l>Who then was dead: 'Twas love indeed,</l>
+               <l>of which let's take a view.</l>
+            </lg>
+            <lg n="108">
+               <head>CVIII.</head>
+               <l>The one, behold, he was ſo bold,</l>
+               <l>his courage was ſo brave,</l>
+               <l>He went unto <hi>Pilate,</hi> that ſo</l>
+               <l>Chriſt's Body he might crave.</l>
+            </lg>
+            <lg n="109">
+               <head>CIX.</head>
+               <l>He Linnen bought,
+<note place="margin">
+                     <hi>John</hi> 19.39.</note> the other brought</l>
+               <l>in weight an hundred pound</l>
+               <pb n="21" facs="tcp:51588:13"/>
+               <l>Of ſweet Perfume; it to perfume,</l>
+               <l>and it in Linnen wound.</l>
+            </lg>
+            <lg n="110">
+               <head>CX.</head>
+               <l>A Tomb was hewn, they laid him down,</l>
+               <l>to ſhew that he was dead;</l>
+               <l>To ſhew that ſin was buried in
+<note place="margin">
+                     <hi>Mar.</hi> 15.46.</note>
+               </l>
+               <l>that grave in very deed.</l>
+            </lg>
+            <lg n="111">
+               <head>CXI.</head>
+               <l>Death to conſume, our Graves perfume,</l>
+               <l>and ſweeten them for us;</l>
+               <l>Thus Chriſt our aid, in Grave was laid,</l>
+               <l>and him they buried thus.</l>
+            </lg>
+            <lg n="112">
+               <head>CXII.</head>
+               <l>And now behold, the Jews moſt bold,</l>
+               <l>while in the Grave he lay,</l>
+               <l>Yea come and look, what pains they took,</l>
+               <l>even on the Sabbath-day.</l>
+            </lg>
+            <lg n="113">
+               <head>CXIII.</head>
+               <l>When this was done, they ſeal'd the Stone,
+<note place="margin">
+                     <hi>Mat.</hi> 27.62. <hi>to end.</hi>
+                  </note>
+               </l>
+               <l>and ſet a Watch thereby;</l>
+               <l>This Sacrifice he might not riſe,</l>
+               <l>but in Sepulchre lie.</l>
+            </lg>
+            <lg n="114">
+               <head>CXIV.</head>
+               <l>But when he had lain under the pain</l>
+               <l>of Death th'appointed hour;</l>
+               <l>The Angels then, came down from heav'n,</l>
+               <l>the Watchmen had no power.</l>
+            </lg>
+            <pb n="22" facs="tcp:51588:14"/>
+            <lg n="115">
+               <head>CXV.</head>
+               <l>The Earth did quake, thoſe men did ſhake,</l>
+               <l>when Angels did appear;</l>
+               <l>Thoſe men they did become as dead,</l>
+               <l>th' were overcome with fear.</l>
+            </lg>
+            <lg n="116">
+               <head>CXVI.</head>
+               <l>The Angels then, that came from Heav'n,</l>
+               <l>did roll away the ſtone;</l>
+               <l>He that was dead, was quickened,</l>
+               <l>for then his work was done.</l>
+            </lg>
+            <lg n="117">
+               <head>CXVII.</head>
+               <l>Yea up he roſe, in ſpight of foes</l>
+               <l>and came forth out the grave;</l>
+               <l>He loos'd its pain,
+<note place="margin">
+                     <hi>Acts</hi> 2.24.</note> and roſe again,</l>
+               <l>that he might victory have.</l>
+            </lg>
+            <lg n="118">
+               <head>CXVIII.</head>
+               <l>He Victory hath now over Death,</l>
+               <l>and over Sin and Hell.</l>
+               <l>For ſome of thoſe, who were his foes,</l>
+               <l>who here on Earth do dwell.</l>
+            </lg>
+            <lg n="119">
+               <head>CXIX.</head>
+               <l>And it is clear, he did appear</l>
+               <l>to be the Son of God;</l>
+               <l>And that with pow'r,
+<note place="margin">
+                     <hi>Rom.</hi> 1.4.</note> in that ſame hour,</l>
+               <l>he not in grave abode.</l>
+            </lg>
+            <lg n="120">
+               <head>CXX.</head>
+               <l>And many they, the Saints that lay</l>
+               <l>in Graves until that hour;</l>
+               <pb n="23" facs="tcp:51588:14"/>
+               <l>Their bodies roſe, in ſpite of foes;
+<note place="margin">
+                     <hi>Mat.</hi> 27.52, 53.</note>
+               </l>
+               <l>and that by Chriſt his pow'r.</l>
+            </lg>
+            <lg n="121">
+               <head>CXXI.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Death its ſtrength, yea, and its ſting,</l>
+               <l>was broke and took away,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ully for thoſe, whom God hath choſe,
+<note place="margin">1 <hi>Cor.</hi> 15.55, 56, 57.</note>
+               </l>
+               <l>though here in graves they lay.</l>
+            </lg>
+            <lg n="122">
+               <head>CXXII.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll they ſhall riſe, and then ſhall prize</l>
+               <l>their Reſurrection from</l>
+               <l>Their Graves; for then,
+<note place="margin">
+                     <hi>Phil.</hi> 3.21.</note> they are for heav'n</l>
+               <l>in likeneſs of Chriſts form.</l>
+            </lg>
+            <lg n="123">
+               <head>CXXIII.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Jeſus Chriſt, our great High Prieſt,</l>
+               <l>did riſe, is very clear;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or this behold,
+<note place="margin">
+                     <hi>Mat.</hi> 18.6.</note> the Angels told</l>
+               <l>the Women that were there.</l>
+            </lg>
+            <lg n="124">
+               <head>CXXIV.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t came to paſs, that of <hi>Cephas,</hi>
+               </l>
+               <l>then of the Twelve was ſeen:</l>
+               <l>Yea he alive of Hundreds five
+<note place="margin">1 <hi>Cor.</hi> 15.5, 6.</note>
+               </l>
+               <l>at once then was he ſeen.</l>
+            </lg>
+            <lg n="125">
+               <head>CXXV.</head>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen <hi>James</hi> and all, both great and ſmall,
+<note place="margin">1 <hi>Cor.</hi> 15.57. <hi>John</hi> 21.27, 28.</note>
+               </l>
+               <l>th 'Apoſtles did him ſee,</l>
+               <l>Yea <hi>Thomas</hi> knew, when Chriſt did ſhew</l>
+               <l>his wounds, that it was h.</l>
+            </lg>
+            <pb n="24" facs="tcp:51588:15"/>
+            <lg n="126">
+               <head>CXXVI.</head>
+               <l>In forty days he ſhew'd his ways,</l>
+               <l>To his he gave commands,</l>
+               <l>How for to ſteer,
+<note place="margin">
+                     <hi>Act.</hi> 1.3, 4.</note> his Kingdom here,</l>
+               <l>then lifting up his Hands,</l>
+            </lg>
+            <lg n="127">
+               <head>CXXVII.</head>
+               <l>He them did bliſs, and promis'd this,</l>
+               <l>that to them he would ſend
+<note place="margin">
+                     <hi>Luke</hi> 24.49, 50.</note>
+               </l>
+               <l>The Comforter; to his Father</l>
+               <l>he ſtrait-way did aſcend.</l>
+            </lg>
+            <lg n="128">
+               <head>CXXVIII.</head>
+               <l>Then Chriſt alive, did lead captive</l>
+               <l>his Enemies and Foes;</l>
+               <l>He victory have,
+<note place="margin">
+                     <hi>Eph.</hi> 4.8.</note> and gifts he gave,</l>
+               <l>to them whom he had choſe,</l>
+            </lg>
+            <lg n="129">
+               <head>CXXIX.</head>
+               <l>He now poſſeſs Glory and Bliſs,</l>
+               <l>the Fathers right Hand by;
+<note place="margin">
+                     <hi>Heb.</hi> 10.12. <hi>chap.</hi> 6.20.</note>
+               </l>
+               <l>His gone before to ope the door,</l>
+               <l>for thoſe whom he did die.</l>
+            </lg>
+            <lg n="130">
+               <head>CXXX.</head>
+               <l>He now prepare,
+<note place="margin">
+                     <hi>John</hi> 14.3. <hi>Chap.</hi> 17.24. <hi>1 Theſ.</hi> 4,17. 1 <hi>Cor.</hi> 13.12.</note> for his moſt dear,</l>
+               <l>in Heaven, a glorious place,</l>
+               <l>Where they ſhall be from ſin ſet free,</l>
+               <l>and ſee his glorious Face.</l>
+            </lg>
+            <lg n="131">
+               <head>CXXXI.</head>
+               <l>He that was dead, is quickened,</l>
+               <l>and lives for evermore;</l>
+               <pb n="25" facs="tcp:51588:15"/>
+               <l>The Keys he hath of Hell and Death,
+<note place="margin">
+                     <hi>Rev.</hi> 1.18.</note>
+               </l>
+               <l>he ever lives therefore.</l>
+            </lg>
+            <lg n="132">
+               <head>CXXXII.</head>
+               <l>To plead for thoſe, whom he hath choſe,</l>
+               <l>the virtue of his Blood,</l>
+               <l>Doth for them plead and intercede,
+<note place="margin">
+                     <hi>Heb.</hi> 7.25.</note>
+               </l>
+               <l>there with the mighty God.</l>
+            </lg>
+            <lg n="133">
+               <head>CXXXIII.</head>
+               <l>Chriſt able is to ſave all his;</l>
+               <l>They'r ever in his Hands:</l>
+               <l>He ever live, and anſwers give,
+<note place="margin">
+                     <hi>Joh.</hi> 10.28.</note>
+               </l>
+               <l>to Juſtice its demands.</l>
+            </lg>
+            <lg n="134">
+               <head>CXXXIV.</head>
+               <l>He doth appear for his moſt dear,
+<note place="margin">
+                     <hi>Heb.</hi> 10.12, 13. <hi>Acts</hi> 3.20, 21. <hi>Luke</hi> 21.27.</note>
+               </l>
+               <l>their cauſe for to maintain,</l>
+               <l>Againſt all thoſe who are their foes;</l>
+               <l>in Heaven he doth remain.</l>
+            </lg>
+            <lg n="135">
+               <head>CXXXV.</head>
+               <l>He there reſide, and ſhall abide</l>
+               <l>till the appointed hour,</l>
+               <l>And then again he comes amain,</l>
+               <l>with glory and with power.</l>
+            </lg>
+            <lg n="136">
+               <head>CXXXVI.</head>
+               <l>With Angels ſtrong, and Saints among,</l>
+               <l>his Spouſe he'll then imbrace,
+<note place="margin">
+                     <hi>Mat.</hi> 25.31.</note>
+               </l>
+               <l>And will compleat that marriage great,</l>
+               <l>which is begun through Grace.
+<note place="margin">
+                     <hi>Rev.</hi> 19.7, 8.</note>
+               </l>
+            </lg>
+            <pb n="26" facs="tcp:51588:16"/>
+            <lg n="137">
+               <head>CXXXVII.</head>
+               <l>O happy they,
+<note place="margin">
+                     <hi>Rev.</hi> 19.9. 1 <hi>Theſ.</hi> 4.16.</note> that keep his way,</l>
+               <l>and ready ſhall be found;</l>
+               <l>They ſhall have Life and be his Wife,</l>
+               <l>when that the Trumpet ſound.</l>
+            </lg>
+            <lg n="138">
+               <head>CXXXVIII.</head>
+               <l>They ſhall rejoyce, the Bridegrooms voice</l>
+               <l>will make their hearts to cheer;</l>
+               <l>They ſhall be glad, yea, and be clad,</l>
+               <l>with Garments coſt him dear.</l>
+            </lg>
+            <lg n="139">
+               <head>CXXXIX.</head>
+               <l>Then all mourning, in that morning</l>
+               <l>of that great Wedding-day.</l>
+               <l>Shall ceaſe with them that are with him</l>
+               <l>and ever flee away.</l>
+            </lg>
+            <lg n="140">
+               <head>CXL.</head>
+               <l>For Chriſt will then in ſpight of Men,</l>
+               <l>from Shame to Glory riſe,</l>
+               <l>His for to ſing to him their King,
+<note place="margin">
+                     <hi>Rev.</hi> 19.1, 5, 5, 6.</note>
+               </l>
+               <l>his everlaſting praiſe.</l>
+            </lg>
+            <lg n="141">
+               <head>CXLI.</head>
+               <l>But wo to thoſe, who him oppoſe,</l>
+               <l>would not that he ſhould reign,</l>
+               <l>Who are ſo ſtout to ſtand it out,
+<note place="margin">
+                     <hi>Luke</hi> 19.27.</note>
+               </l>
+               <l>till he appear again.</l>
+            </lg>
+            <lg n="142">
+               <head>CXLII.</head>
+               <l>They will be ſought, yea, and be brought</l>
+               <l>before this dreadful Lord;</l>
+               <pb n="27" facs="tcp:51588:16"/>
+               <l>And there be ſlain, that to their pain,</l>
+               <l>according to his Word.</l>
+            </lg>
+            <lg n="143">
+               <head>CXLIII.</head>
+               <l>The Ignorant, Diſobedient,</l>
+               <l>who do his Grace refuſe,
+<note place="margin">2 <hi>Theſ.</hi> 1.8.</note>
+               </l>
+               <l>When offeted and tendered,</l>
+               <l>who ſinful luſt doth chuſe.</l>
+            </lg>
+            <lg n="144">
+               <head>CXLIV.</head>
+               <l>Then wo to them who hated him,</l>
+               <l>and perſecuted thoſe</l>
+               <l>Whom he doth love, who are his dove,
+<note place="margin">2 <hi>Theſ.</hi> 1.6.</note>
+               </l>
+               <l>his Church whom he hath chuſe,</l>
+            </lg>
+            <lg n="145">
+               <head>CXLV.</head>
+               <l>Yea, wo to ſuch, who ſinned much,</l>
+               <l>in ſcoffing at his Word;
+<note place="margin">2 <hi>Pet.</hi> 3.3, 4.</note>
+               </l>
+               <l>Thoſe wicked men, will find it then,</l>
+               <l>T'was true of this our Lotd.</l>
+            </lg>
+            <lg n="146">
+               <head>CXLVI.</head>
+               <l>To Hypocrites, falſe hearted Wights,</l>
+               <l>yea, wo to ſuch as they,</l>
+               <l>Who 'gan to ſay, that he doth ſtay,
+<note place="margin">
+                     <hi>Mat.</hi> 24.48, <hi>to end.</hi>
+                  </note>
+               </l>
+               <l>his coming he'll delay.</l>
+            </lg>
+            <lg n="147">
+               <head>CXLVII.</head>
+               <l>Yea, wo to all both great and ſmall,</l>
+               <l>who naked ſhall be found;</l>
+               <l>Who then muſt ſtand, at his left Hand,</l>
+               <l>Yea, and muſt there be bound.</l>
+            </lg>
+            <pb n="28" facs="tcp:51588:17"/>
+            <lg n="148">
+               <head>CXLVIII.</head>
+               <l>And ſent apace, unto their place,</l>
+               <l>whence they ſhall not return;</l>
+               <l>But under Chains, and endleſs Pains,</l>
+               <l>there muſt they lie and burn.</l>
+            </lg>
+            <lg n="149">
+               <head>CXLIX.</head>
+               <l>More I might ſay, of Judgment day,</l>
+               <l>but this is done before,</l>
+               <l>One book it ſpake ſo much, I brake</l>
+               <l>off this diſcourſe therefore.</l>
+            </lg>
+            <lg n="150">
+               <head>CL.</head>
+               <l>If you would look upon that Book,</l>
+               <l>'tis call'd, <hi>The day of doom.</hi>
+               </l>
+               <l>It's worth is ſuch, it ſpake ſo much,</l>
+               <l>for me it leaves no room.</l>
+            </lg>
+         </div>
+         <div type="concluding_poem">
+            <head>A ſhort Application.</head>
+            <lg n="151/1">
+               <head>CLI.</head>
+               <l>1. NOw unto all, both great and ſmall,</l>
+               <l>who here on Earth do dwell,</l>
+               <l>That come to ſee theſe lines, I thee</l>
+               <l>do pray conſider well.</l>
+            </lg>
+            <lg n="152/2">
+               <head>CLII.</head>
+               <l>2. Theſe things are ſuch, they very much</l>
+               <l>concern both thee and me;</l>
+               <l>They us might teach, at leaſt will reach,</l>
+               <l>our cauſe what e'er it be.</l>
+            </lg>
+            <pb n="29" facs="tcp:51588:17"/>
+            <lg n="153/3">
+               <head>CLIII.</head>
+               <l>3. If the darkneſs yea and weakneſs</l>
+               <l>of my heart, head, and pen,</l>
+               <l>Do not now ſhade, and make to fade</l>
+               <l>Truth's glory herein, when</l>
+            </lg>
+            <lg n="154/4">
+               <head>CLIV.</head>
+               <l>4. You come to ſee poor ſinful me,</l>
+               <l>how darkly I have ſhown,</l>
+               <l>Theſe precious things; which ſweetneſs brings</l>
+               <l>to thoſe to whom they're known</l>
+            </lg>
+            <lg n="155/5">
+               <head>CLV.</head>
+               <l>5. Then this I ſay, theſe things they may</l>
+               <l>reach thee and me and all;</l>
+               <l>Firſt, if thou be'ſt one of the beſt,</l>
+               <l>a Saint, brought out of thrall.</l>
+            </lg>
+            <lg n="156/6">
+               <head>CLVI.</head>
+               <l>6. Oh matchleſs Grace, which flows apace</l>
+               <l>from God through Chriſt to thee;</l>
+               <l>Oh comfort take, in Chriſt, who make</l>
+               <l>of Sinners, Saints to be.</l>
+            </lg>
+            <lg n="157/7">
+               <head>CLVII.</head>
+               <l>7. Oh Soul rejoyce; thou art the choice</l>
+               <l>of God in Chriſt above:</l>
+               <l>Oh bleſſed thing, that bleſſed King</l>
+               <l>have wrapt thee up in love.</l>
+            </lg>
+            <lg n="158/8">
+               <head>CLVIII.</head>
+               <l>8. Thy ſtate is good, oh Child of God,</l>
+               <l>it never ſhall be evil;</l>
+               <l>The beat'n, hated, perſecuted,</l>
+               <l>though tempted of the Devil.</l>
+            </lg>
+            <pb n="30" facs="tcp:51588:18"/>
+            <lg n="159/9">
+               <head>CLIX.</head>
+               <l>9.
+<note place="margin">
+                     <hi>Iſa.</hi> 63.9. <hi>Judg.</hi> 10.16. <hi>Zech.</hi> 2.8.</note> Chriſt felt a part of all the ſmart</l>
+               <l>that here thou meet'ſt withal;</l>
+               <l>It ſhall not laſt, thou ſhalt at laſt</l>
+               <l>be free'd from it all.</l>
+            </lg>
+            <lg n="160/10">
+               <head>CLX.</head>
+               <l>10. Though thou be'ſt now, ſo dark as thou</l>
+               <l>canſt not diſcern the light;
+<note place="margin">
+                     <hi>Iſa.</hi> 50.10.</note>
+               </l>
+               <l>The light will ſhine, for Chriſt is thine;</l>
+               <l>this thou ſhalt ſee, moſt bright.</l>
+            </lg>
+            <lg n="161/11">
+               <head>CLXI.</head>
+               <l>11. When once the Sun ſhall riſe upon</l>
+               <l>thy Soul, and there do ſhine;</l>
+               <l>Then ſhalt thou ſee Chriſt dy'd for thee;</l>
+               <l>that he and all is thine.</l>
+            </lg>
+            <lg n="162/12">
+               <head>CLXII.</head>
+               <l>12. For Chriſt, moſt dear, till he appear,</l>
+               <l>now hope and wait for him:</l>
+               <l>Do not time waſte,
+<note place="margin">
+                     <hi>Iſa.</hi> 28.16.</note> nor make not haſte;</l>
+               <l>but wait it out with them.</l>
+            </lg>
+            <lg n="163/13">
+               <head>CLXIII.</head>
+               <l>13. Who do believe, whom Chriſt reprieve,</l>
+               <l>from enemies and foes;</l>
+               <l>Who all ſhall be, by him made free</l>
+               <l>from miſeries and woes.</l>
+            </lg>
+            <lg n="164/14">
+               <head>CLXIV.</head>
+               <l>14. Now if Chriſt dwell in thee 'tis well;</l>
+               <l>oh ſoul 'tis not amiſs</l>
+               <l>To ſearch and try,
+<note place="margin">
+                     <hi>Eph.</hi> 3.17.</note> to ſatisfie</l>
+               <l>thy ſelf, O ſoul, in this.</l>
+            </lg>
+            <pb n="31" facs="tcp:51588:18"/>
+            <lg n="165/15">
+               <head>CLXV.</head>
+               <l>15. If thou be'ſt he who would be free</l>
+               <l>from all miſtakes herein,</l>
+               <l>Then ſearch thy heart and inward part,</l>
+               <l>if Chriſt do dwell therein.</l>
+            </lg>
+            <lg n="166/16">
+               <head>CLXVI.</head>
+               <l>16. Do'ſt hate thy ſin, that dwell therein,</l>
+               <l>becauſe 'tis againſt God?</l>
+               <l>Do'ſt thou therefore labour the more</l>
+               <l>therein not to abod?
+<note place="margin">
+                     <hi>Rom.</hi> 7.15. <hi>Pſal.</hi> 51.4.</note>
+               </l>
+            </lg>
+            <lg n="167/17">
+               <head>CLXVII.</head>
+               <l>17. The God above his Word do'ſt love,</l>
+               <l>becauſe 'tis very pure?</l>
+               <l>Is't thy delight, both day and night,
+<note place="margin">
+                     <hi>Pſal.</hi> 119.140. <hi>Rom.</hi> 7.22.</note>
+               </l>
+               <l>of this art very ſure?</l>
+            </lg>
+            <lg n="168/18">
+               <head>CLXVIII.</head>
+               <l>18. Do'ſt feel and find in heart and mind</l>
+               <l>the clearer thou do'ſt ſee</l>
+               <l>Thy Evidence?
+<note place="margin">2 <hi>Cor.</hi> 6.17, 18.7.1.</note> Do'ſt labour hence</l>
+               <l>the holier to be?</l>
+            </lg>
+            <lg n="169/19">
+               <head>CLXIX.</head>
+               <l>19. That Chriſt ſhould rule within thy ſoul,</l>
+               <l>this is thy liberty;
+<note place="margin">2 <hi>Cor.</hi> 3.17. <hi>Rom.</hi> 7.23.</note>
+               </l>
+               <l>That Sin ſhould be yet within thee,</l>
+               <l>is this Captivity?</l>
+            </lg>
+            <lg n="170/20">
+               <head>CLXX.</head>
+               <l>20. Art one of thoſe, who is ſin's foes?</l>
+               <l>Do'ſt hate it worſe than Hell?</l>
+               <l>Then ſure 'tis that hope there is,</l>
+               <l>that Chriſt in thee do dwell</l>
+            </lg>
+            <pb n="32" facs="tcp:51588:19"/>
+            <lg n="171/21">
+               <head>CLXXI.</head>
+               <l>21. And now let us, conſider thus,</l>
+               <l>What cauſe thou haſt to prize</l>
+               <l>What God, his Son, for thee hath done,</l>
+               <l>in cauſing thee to riſe</l>
+            </lg>
+            <lg n="172/22">
+               <head>CLXXII.</head>
+               <l>22. Up out of thrall; where thou didſt fall</l>
+               <l>by Sin and Satan too:</l>
+               <l>But now art rais'd, the Lord be prais'd,</l>
+               <l>who ſaveth thee from wo.</l>
+            </lg>
+            <lg n="173/23">
+               <head>CLXXIII.</head>
+               <l>23. Oh praiſes give, and praiſes live;</l>
+               <l>oh lead an holy life,</l>
+               <l>Like unto thoſe,
+<note place="margin">2 <hi>Tim.</hi> 2.11, 12, 14.</note> whom Chriſt have choſe</l>
+               <l>to be his Spouſe, his Wife.</l>
+            </lg>
+            <lg n="174/24">
+               <head>CLXXIV.</head>
+               <l>24. 'Tis all that he, acccepts from thee,</l>
+               <l>that holy thou ſhould'ſt live:</l>
+               <l>That thou ſhould'ſt ſhew his praiſes now;
+<note place="margin">1 <hi>Pet.</hi> 2.9.</note>
+               </l>
+               <l>and to him glory give.</l>
+            </lg>
+            <lg n="175/25">
+               <head>CLXXV.</head>
+               <l>25. Great reaſon 'tis, thou ſhould'ſt be his</l>
+               <l>in heart and life and all:</l>
+               <l>For he did die, thou might'ſt not lie</l>
+               <l>in Sin, in Hell, and thrall.</l>
+            </lg>
+            <lg n="176/26">
+               <head>CLXXVI.</head>
+               <l>26. Now unto thoſe, who yet are foes,</l>
+               <l>who ſtill remain in ſin;</l>
+               <l>I ſpeak to thee, exhorted be,</l>
+               <l>awake, awake, come in.</l>
+            </lg>
+            <pb n="33" facs="tcp:51588:19"/>
+            <lg n="177/27">
+               <head>CLXXVII.</head>
+               <l>27. Accept of Grace, which flows apace</l>
+               <l>to ſome o'the worſt of men,</l>
+               <l>From God above, through Chriſt in love,
+<note place="margin">
+                     <hi>Iſa.</hi> 55.7.</note>
+               </l>
+               <l>whatever thou haſt been.</l>
+            </lg>
+            <lg n="178/28">
+               <head>CLXXVIII.</head>
+               <l>28. Come now believe; for Chriſt reprieve</l>
+               <l>ſuch ſouls from Death and Hell.</l>
+               <l>And life he'll give, and they ſhall live;</l>
+               <l>ye, with him they ſhall dwell.</l>
+            </lg>
+            <lg n="179/29">
+               <head>CLXXIX.</head>
+               <l>29. Oh come by faith, the Scripture ſaith,</l>
+               <l>that they ſhall not be blam'd;
+<note place="margin">
+                     <hi>Eph.</hi> 1.4. <hi>Rom.</hi> 10.11.</note>
+               </l>
+               <l>That they ſhall not, no not one jot,</l>
+               <l>at laſt be made aſham'd.</l>
+            </lg>
+            <lg n="180/30">
+               <head>CLXXX.</head>
+               <l>30. Oh that I knew, what more to ſhew,</l>
+               <l>or further for to ſay,</l>
+               <l>That might perſwade, thou might'ſt be made.</l>
+               <l>no longer to delay.</l>
+            </lg>
+            <lg n="181/31">
+               <head>CLXXXI.</head>
+               <l>31. Chriſt he doth ſtand, and hold his hand</l>
+               <l>of Grace out unto thee;
+<note place="margin">
+                     <hi>John</hi> 7.37. <hi>Ezek</hi> 33.11.</note>
+               </l>
+               <l>He calls and cry, Why will ye die?</l>
+               <l>oh ſoul turn unto me.</l>
+            </lg>
+            <lg n="182/32">
+               <head>CLXXXII.</head>
+               <l>32. Chriſt, willing is, thou ſhould'ſt be his;</l>
+               <l>he'll take away thy guilt;</l>
+               <l>He'll free thee from the wrath to come,
+<note place="margin">
+                     <hi>John</hi> 5.40. 1 <hi>Theſ.</hi> 1.10.</note>
+               </l>
+               <l>if come to him thou wilt.</l>
+            </lg>
+            <pb n="34" facs="tcp:51588:20"/>
+            <lg n="183/33">
+               <head>CLXXXIII.</head>
+               <l>33. Oh come I ſay, Oh come away,</l>
+               <l>believe in God his Son;</l>
+               <l>Believe with heart and take a part,</l>
+               <l>of all that Chriſt have done.</l>
+            </lg>
+            <lg n="184/34">
+               <head>CLXXXIV.</head>
+               <l>34. Believe, and then thou ſhalt have Hea'n</l>
+               <l>there thou ſhalt have a room:
+<note place="margin">1 <hi>Theſ.</hi> 3.13.</note>
+               </l>
+               <l>When Chriſt moſt dear, again appear,</l>
+               <l>then with him thou ſhalt come.</l>
+            </lg>
+            <lg n="185/35">
+               <head>CLXXXV.</head>
+               <l>35. Thy bones revive, if not ſurvive,</l>
+               <l>and live until that day,</l>
+               <l>But if thou do'ſt,
+<note place="margin">1 <hi>Theſ.</hi> 4.16, 17.</note> then up thou go'ſt,</l>
+               <l>and meet with him I ſay.</l>
+            </lg>
+            <lg n="186/36">
+               <head>CLXXXVI.</head>
+               <l>36. Then ſhalt thou be, ever with he,</l>
+               <l>when Heav'n and all is thine.</l>
+               <l>There ſhalt thou dwell,
+<note place="margin">1 <hi>Theſ.</hi> 4.17.</note> all will be well,</l>
+               <l>with Angels ſhalt thou ſhine.</l>
+            </lg>
+            <lg n="187/37">
+               <head>CLXXXVII.</head>
+               <l>37. For Chriſt will ſay; ev'n in that day,</l>
+               <l>Oh come and take thy Crown;</l>
+               <l>Come and poſſeſs thy Happineſs,
+<note place="margin">
+                     <hi>Mat.</hi> 25.34.</note>
+               </l>
+               <l>the Kingdom is thy own.</l>
+            </lg>
+            <lg n="188/38">
+               <head>CLXXXVIII.</head>
+               <l>38. But if thy ſin, which dwell within,</l>
+               <l>thou be'ſt reſolv'd to have,</l>
+               <l>And wilt delight both day and night,</l>
+               <l>in ſin, till at thy grave.</l>
+            </lg>
+            <pb n="35" facs="tcp:51588:20"/>
+            <lg n="189/39">
+               <head>CLXXXIX.</head>
+               <l>39. Oh what excuſe, for thy abuſe,</l>
+               <l>of Grace wilt have to make?</l>
+               <l>Oh wilt thou die eternally,</l>
+               <l>and warning never take.</l>
+            </lg>
+            <lg n="190/40">
+               <head>CXC.</head>
+               <l>40. Conſider well, the damn'd in Hell,</l>
+               <l>and what they ſufter there;</l>
+               <l>They weep, they wail, their hearts do fail,
+<note place="margin">
+                     <hi>Mat.</hi> 22.13.</note>
+               </l>
+               <l>as Scriptures make appear.</l>
+            </lg>
+            <lg n="191/41">
+               <head>CXCI.</head>
+               <l>41. Their Teeth they gnaſh, in thoughts of traſh,</l>
+               <l>for which their Souls were loſt;</l>
+               <l>That Sin did chuſe, and Chriſt refuſe,</l>
+               <l>they find it to their coſt.</l>
+            </lg>
+            <lg n="192/42">
+               <head>CXCII.</head>
+               <l>42. They are helpleſs, who can expreſs,</l>
+               <l>one thouſand part o'th wo,</l>
+               <l>That they do find in heart and mind,
+<note place="margin">
+                     <hi>Iſa.</hi> 66.24.</note>
+               </l>
+               <l>who into Hell do go.</l>
+            </lg>
+            <lg n="193/43">
+               <head>CXCIII.</head>
+               <l>43. What Tongues of Men, or Angels Pen,</l>
+               <l>can ſhew the ſtate of thoſe,</l>
+               <l>Who live and die in ſin,
+<note place="margin">
+                     <hi>Rev.</hi> 14.10, 11.</note> and lie</l>
+               <l>in miſery and woes.</l>
+            </lg>
+            <lg n="194/44">
+               <head>CXCIV.</head>
+               <l>44. Now this I ſay, the only way,</l>
+               <l>for to eſcape that place,</l>
+               <l>Is to awake, and warning take,
+<note place="margin">
+                     <hi>Iſa.</hi> 27.4, 5.45.22, 24.</note>
+               </l>
+               <l>and come to Chriſt for Grace.</l>
+            </lg>
+            <pb n="36" facs="tcp:51588:21"/>
+            <lg n="195/45">
+               <head>CXCV.</head>
+               <l>45.
+<note place="margin">
+                     <hi>Acts</hi> 4.12.</note> Awake, I ſay, do not delay,</l>
+               <l>it is the great concern,</l>
+               <l>Thou haſt to mind,
+<note place="margin">
+                     <hi>Mat.</hi> 11.29.</note> Grace for to ſind;</l>
+               <l>oh come to Chriſt and learn.</l>
+            </lg>
+            <lg n="196/46">
+               <head>CXCVI.</head>
+               <l>46. He is the way, where Sinners may</l>
+               <l>paſs through from Earth to Heav'n;</l>
+               <l>Oh leave thy Sin,
+<note place="margin">
+                     <hi>Joh.</hi> 14.6.</note> oh Soul come in,</l>
+               <l>happy ſhalt thou be then.</l>
+            </lg>
+            <lg n="197/47">
+               <head>CXCVII.</head>
+               <l>47. His Grace is free, to ſuch as thee,</l>
+               <l>whatever thou haſt been;
+<note place="margin">
+                     <hi>Rom.</hi> 3.23, 24.</note>
+               </l>
+               <l>If thou do'ſt now, Repentance ſhew,</l>
+               <l>and do'ſt by Faith come in.
+<note place="margin">
+                     <hi>Acts</hi> 3.19.</note>
+               </l>
+            </lg>
+            <lg n="198/48">
+               <head>CXCVIII.</head>
+               <l>48. Come in this hour to Chriſt for pow'r,</l>
+               <l>that ſo thou may'ſt repent.</l>
+               <l>And hate thy ſin that dwells within,
+<note place="margin">
+                     <hi>Heb.</hi> 4.7.</note>
+               </l>
+               <l>and may'ſt be penitent.</l>
+            </lg>
+            <lg n="199/49">
+               <head>CXCIX.</head>
+               <l>49. Oh haſte and cry,
+<note place="margin">
+                     <hi>Acts</hi> 5.31. 2 <hi>Cor.</hi> 5.17.</note> thou may'ſt be new</l>
+               <l>and with him ever live.</l>
+            </lg>
+            <lg n="200/50">
+               <head>CC.</head>
+               <l>50. Pray God above, extend his love,</l>
+               <l>to thee and me and all,</l>
+               <l>That come to ſee theſe lines; that we,</l>
+               <l>may hearken to his call.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51588:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
